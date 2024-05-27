@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mirwais Farahi</h1>
 <h3 align="center">Data Scientist | Machine Learning and Predictive Analytics | Data Analyst | Applied Statistics | Software Engineer | In love with pair-programming, Python and Remote Work</h3>
 
+I am a Data Analyst and Software Engineer with a background in implementing data-driven solutions and enterprise software across multiple sectors. Currently, I serve as the Head of Data Quality & Analysis Unit at Adroit Associates, focusing on the application of artificial intelligence and machine learning in agricultural data analysis. My role involves extensive data cleaning, processing, and deploying AI models to enhance decision-making processes using Python and STATA.
+
+Previously, I worked at Tetra Tech - USAID, as a System Analyst, I enhanced my expertise in software requirement collection and system testing, contributing to the development of a critical enterprise solution for the Afghanistan Civil Aviation Authority. My tenure at the Ministry of Communication and IT, Afghanistan, allowed me to lead a team of developers in creating impactful business solutions for government operations, significantly honing my leadership skills. As an academic at Rana University, I led the computer science faculty’s research community, taught a wide array of technical subjects, and organized educational seminars, underscoring my commitment to academic excellence and student mentorship.
+
+In addition to my technical and leadership roles, I am actively involved in social initiatives as a Board Member of the Naween Green Nagin Social Organization, focusing on women's empowerment through education and technology in Afghanistan.
+
+
 - 🔭 I’m currently working on **Snapshot Deep Learning Ensemble-Based Leukemia Cancer Detection**
 
 - 🌱 I’m currently learning **Advanced Google Data Analytics Certification, Intermediate Python Certification, Google TensorFlow Certification**
