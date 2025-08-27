@@ -6,6 +6,6 @@ import tailwind from '@astrojs/tailwind'
 
 export default defineConfig({
   site: 'https://mirwais-farahi.github.io',
-  base: '/mirwais-farahi',     // <— IMPORTANT: repo name
+  base: '/',   // no subpath
   integrations: [mdx(), sitemap(), tailwind()]
 })
