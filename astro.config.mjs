@@ -1,10 +1,11 @@
-import { defineConfig } from 'astro/config';
-import mdx from '@astrojs/mdx';
-import sitemap from '@astrojs/sitemap';
-import tailwind from "@astrojs/tailwind";
+// astro.config.mjs
+import { defineConfig } from 'astro/config'
+import mdx from '@astrojs/mdx'
+import sitemap from '@astrojs/sitemap'
+import tailwind from '@astrojs/tailwind'
 
-// https://astro.build/config
 export default defineConfig({
-  site: 'https://Mirwais-Farahi.github.io',
+  site: 'https://mirwais-farahi.github.io', // lowercase is fine
+  base: '/mirwais-farahi',                  // <-- add this (repo name)
   integrations: [mdx(), sitemap(), tailwind()]
-});
+})
