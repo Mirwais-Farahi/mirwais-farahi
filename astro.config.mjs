@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap'
 import tailwind from '@astrojs/tailwind'
 
 export default defineConfig({
-  site: 'https://mirwais-farahi.github.io', // lowercase is fine
-  base: '/mirwais-farahi',                  // <-- add this (repo name)
+  site: 'https://mirwais-farahi.github.io',
+  base: '/mirwais-farahi',     // <— IMPORTANT: repo name
   integrations: [mdx(), sitemap(), tailwind()]
 })
